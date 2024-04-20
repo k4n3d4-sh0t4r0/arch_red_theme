@@ -1,8 +1,10 @@
-# Arch_red_theme
+# Arch red theme
 
-Dark and Red theme for linux arch.
+Dark and Red theme for linux arch. It uses pre-installed applications with xfce, which avoids a complicated installation process and doesn't use a lot of memory.
 
-# Info about my config
+Keep it simple, stupid
+
+# Info about the config
 
 Desktop environment:
 `Xfce`
@@ -10,8 +12,11 @@ Desktop environment:
 Windows manager:
 `Xfwm4`
 
+Panel:
+`xfce4-panel`
+
 Icons:
-`Tela-circle-dark` (it's not red but wathever you don't see the blue file icon on thunar and other icons are good)
+`Tela-circle-dark` (it's the default icon pack so not red but wathever you don't see the blue file icon on thunar and other icons are good)
 
 Font:
 `Monospace 10`

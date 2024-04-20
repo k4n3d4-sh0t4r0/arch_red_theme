@@ -1,0 +1,1 @@
+Right click on the panel, go to panel preferences, click on restore and then import 'Arch-Red.tar.bz2' with the name you want
