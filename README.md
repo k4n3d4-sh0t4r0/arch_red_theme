@@ -21,6 +21,19 @@ Icons:
 Font:
 `Monospace 10`
 
+# Credits
+
+This theme uses modified versions of another theme, here are the credits of the themes I modified
+
+Grub :
+`https://www.gnome-look.org/p/1482847/`
+
+Spicetify :
+`https://github.com/spicetify/spicetify-themes/tree/master/text`
+
+Theme :
+`https://store.kde.org/p/1342612`
+
 # Installation
 
 Just add the file where the `wheretoput.txt` file say. Some require enabling them in settings (like grub)
