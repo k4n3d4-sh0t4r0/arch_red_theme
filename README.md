@@ -1,3 +1,10 @@
+# Screenshots
+
+![screenshot](screenshots/screenshot_01.png)
+![screenshot](screenshots/screenshot_02.png)
+![screenshot](screenshots/screenshot_03.png)
+![screenshot](screenshots/screenshot_04.png)
+
 # Arch red theme
 
 Dark and Red theme for linux arch. It uses pre-installed applications with xfce, which avoids a complicated installation process and doesn't use a lot of memory.
