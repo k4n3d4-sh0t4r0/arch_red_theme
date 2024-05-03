@@ -12,38 +12,46 @@
 
 Dark and Red theme for linux arch. It uses pre-installed applications with xfce, which avoids a complicated installation process and doesn't use a lot of memory.
 
+This github is mostly there in case I need to do a fresh install. But take what you want from my theme and modify it if you wish.
+
 Keep it simple, stupid
 
 # Info about the config
 
-Desktop environment:
+### Desktop environment:
 `Xfce`
 
-Windows manager:
+### Windows manager:
 `Xfwm4`
 
-Panel:
+### Panel:
 `xfce4-panel`
 
-Icons:
+### Icons:
 `Tela-circle-dark` (it's the default icon pack so not red but wathever you don't see the blue file icon on thunar very often, and other icons are good)
 
-Font:
+### Font:
 `Monospace 10`
 
 # Credits
 
 This theme uses modified versions of another theme, here are the credits of the themes I modified
 
-Grub :
-`https://www.gnome-look.org/p/1482847/`
+### Grub :
+[https://www.gnome-look.org/p/1482847/]([https://store.kde.org/p/1342612](https://www.gnome-look.org/p/1482847/))
 
-Spicetify :
-`https://github.com/spicetify/spicetify-themes/tree/master/text`
+### Spicetify :
+[https://github.com/spicetify/spicetify-themes/tree/master/text]([https://store.kde.org/p/1342612](https://github.com/spicetify/spicetify-themes/tree/master/text))
 
-Theme :
-`https://store.kde.org/p/1342612`
+### Theme :
+[https://store.kde.org/p/1342612](https://store.kde.org/p/1342612)
 
 # Installation
 
-Just add the file where the `wheretoput.txt` file say. Some require enabling them in settings (like grub)
+Just add the file where the `wheretoput.txt` file say. Some require enabling them in settings
+
+# ToDo
+
+* Add different colors
+* Change icons theme to match color theme
+* Create a OhMyZsh theme
