@@ -1,8 +1,11 @@
 # Screenshots
 
 ![screenshot](screenshots/screenshot_01.png)
+
 ![screenshot](screenshots/screenshot_02.png)
+
 ![screenshot](screenshots/screenshot_03.png)
+
 ![screenshot](screenshots/screenshot_04.png)
 
 # Arch red theme
@@ -23,7 +26,7 @@ Panel:
 `xfce4-panel`
 
 Icons:
-`Tela-circle-dark` (it's the default icon pack so not red but wathever you don't see the blue file icon on thunar and other icons are good)
+`Tela-circle-dark` (it's the default icon pack so not red but wathever you don't see the blue file icon on thunar very often, and other icons are good)
 
 Font:
 `Monospace 10`
