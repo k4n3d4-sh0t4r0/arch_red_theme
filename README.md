@@ -30,7 +30,7 @@ Keep it simple, stupid
 `xfce4-panel`
 
 ### Icons:
-`Tela-circle-dark` (it's the default icon pack so not red but wathever you don't see the blue file icon on thunar very often, and other icons are good)
+`Tela-circle-red-dark` (In case I put a 7z archive with the icon pack)
 
 ### Font:
 `Monospace 10`
